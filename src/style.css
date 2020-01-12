@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    color: #007cf8;
+    text-decoration: none;
+}
+html,body{
+    background: #f8f8f9;
+}
+.app{
+    height: 100%;
+}
